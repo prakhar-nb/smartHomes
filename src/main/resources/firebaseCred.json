@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-riva-921af",
+  "private_key_id": "c9844ad4d72d0c81a5ffaae572892326eceda458",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnLjHBsc5iOt75\nAZQ2s/d9s6/3apRd/z68NF37bcCPLYrtnFZe62dPxlS8ULyLp2bpm9/HiX1TCMR8\nYQBOjxVl+yfRmB53xG6RQJRuaaAZQmurVwaSKjurukXrogA8Ny/iPZ9EfWQpNkom\nM22ovEjI4hvb+FkkYuS2sRsDs/5jGGiatSkhw4EA9lBGFWE990zFDHuXhItxLAS0\nIDDSJ6z9H6MoJhKQLJdA4x7Oh+loIyw6irxdY+HAU6Sz88g5wP1cBWFMEi4Nhb3N\nfXS0KWe5QgBUMuguokluNEDMtawd0mgWyhtTj/Jy9fnCkLOAu75qJwKLY2bEPTj6\nGtIXhPb/AgMBAAECggEAGqLQ6s9QxzKfRDNxX0gnCN2uNaSbCaWCFe82sOR5XkXS\nDwSHUxJuaduhIb1vq+uSyPHDu9rUjL+i2+3VOjf0MDba5KRRRl1km+nD8GDNKHvl\nqe0x/Z9OFsA0lCyrOETniHqvIhYMd08hBfvA88MV48dhjFu18aJPVdlcEnYnpkUO\nl0LmmpUsWE2l6h0hqI7urzVQfQwMRw0uHPA/ykADnZKVMnue8RkNEhZbuyZdCF5i\nycDR/Sf+0ac9T+ZC1ojNnw+02QH57piUArNuwC+DTQ94MfzZYkzhkBwRBcAIpykE\nxJqkXEP/ynMwRGrn+2fLH1aOJkXFrA8dJzZQIHdOmQKBgQD8c4jbgC1a5mnl2Aya\nh+l/zXnrUlXCrHXSbnCJAWtXsh9r8w6ooMuEzzdD5kdwISrcS3WcLGl2hE4vBikR\nJxF5dRlKHuoiouqUjmC7ZLxftCpM5TY8a9Ie0eMzkFMvUpQbiwnzzBUf3VvKtbAl\nfkreM/U/NwuUYlVF/D7IhGaDdQKBgQDqbh1sq3W00Xz7irbon9yIGxGbjDDgDmae\n9eaNqM4I9ThVJC4dQalY2v4kskaAk04MDklPlpXdMZPI59Biw4A3L0J6Wgy4ko9p\nAhsmJrMgNQFIUbGHnZQycUXKn4O7gew5B9rWTR7xsSHN908h0K3iCbmPoi/AJgHP\nUJm2SHNGIwKBgHHvitLWFKIz35N2YKnVsVKW3/GO5VnJEBv68BtFYrbfk0LbHcCJ\nYZD9HIouggtfTMLD476qZKayq76ZXyt4oHBaoyFKto0PTiPh5lJs8n+XBohR4pp+\nZwS14X7CImj3MhUEOWeosdgBxY3FVkx1pUCH3qW7KCS+BJJjd8pzxviJAoGAI2NN\n88qKMSpyaHJPHByNqMoVRVrLQfdKjHJoRDgYKggCYe/dOjNgQfaE6Ls0o1IZNP6v\nGGGN698BBRHhRhdm8m2i5l9TjkUpetuDh6XN4m297NHQL72c0mSA+Y5Mz3BUXWOP\nKExqAGgRx0qu2lbq+LUpGsKL3MCgA1CSc47KP+sCgYEAnPAbTdiYhfttWeQB2+I0\nEyGoP/p4RiGiNryteI+19wM2S35IYPt/Jik87RLfEtWZSK+6whel5n7y0vaHyrhc\nnnWsumNsRm52APnRn1deuUtkehOPcrSGa7YCRYv8Z91url9FTjlSKVtd6M2XMgAE\nQXom4AyX9gKGBtCTf1W/2A8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-14d5b@project-riva-921af.iam.gserviceaccount.com",
+  "client_id": "103008583522224834285",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-14d5b%40project-riva-921af.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
