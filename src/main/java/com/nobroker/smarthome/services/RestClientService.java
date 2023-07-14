@@ -36,11 +36,10 @@ public class RestClientService {
 
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(mediaType);
-        if(!bearerToken.isBlank()){
+        if(!StringUtils.isEmpty(bearerToken)){
             headers.set("Authorization", bearerToken);
         }
 
-//        MultiValueMap<String, String> parameters = new LinkedMultiValueMap<>();
 
         HttpEntity<MultiValueMap<String, String>> entity = new HttpEntity<>(parameters, headers);
         try {
