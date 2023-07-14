@@ -21,6 +21,7 @@ public class AlexaSkillHandler extends SkillStreamHandler{
                         new ActivateFanIntentHandler(),
                         new DeactivateFanIntentHandler()
                 )
+                .withSkillId("amzn1.ask.skill.300f65b5-fad6-44cf-bdb4-6464ccd9304b")
                 .build();
     }
 
