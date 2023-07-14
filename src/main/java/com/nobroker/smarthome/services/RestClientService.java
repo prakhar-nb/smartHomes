@@ -52,7 +52,11 @@ public class RestClientService {
 
             HttpStatusCode statusCode = response.getStatusCode();
             if(statusCode.equals(HttpStatus.OK)){
-                return response.getBody();
+                if(null!=response.getBody()){
+                    return response.getBody();
+                }else{
+                    return "Lead Created";
+                }
             }else{
                 return null;
             }

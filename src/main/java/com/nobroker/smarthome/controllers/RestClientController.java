@@ -1,8 +1,6 @@
 package com.nobroker.smarthome.controllers;
 
 
-import com.google.cloud.firestore.*;
-import com.nobroker.smarthome.firebase.Firebase;
 import com.nobroker.smarthome.services.RestClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpMethod;
@@ -11,9 +9,6 @@ import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Map;
-import java.util.Objects;
-import java.util.concurrent.ExecutionException;
 
 @RestController
 @RequestMapping("/rest")
